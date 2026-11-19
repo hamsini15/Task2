@@ -1,6 +1,6 @@
 // Student Result Management System
 // Object-Oriented Programming Using C++ Lab - Task 2
-// Name: Gurteg Singh Setia | USN: NB25ECE064 | Section: SEC A
+// Name: Hamsini R Acharya | USN: NB25ECE066 | Section: SEC A
 
 #include <iostream>
 #include <fstream>
